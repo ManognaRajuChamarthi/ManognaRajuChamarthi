@@ -1,7 +1,10 @@
 ### Hi there 👋
 🌱 I’m currently learning Game Devlopement using Unity
+
 🔭 C language, C# for unity are the languages I am comfortable with
+
 🐍 I'm learning Python actively, as it is the most used language to build Machine Learning and AI Models
+
 🖥️ We know that games can use a good AI so I would like to know more about its application in designing Games.
 
 If you cant tell already, Let me spill it "I LOVE VIDEO GAMES"
