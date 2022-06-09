@@ -8,7 +8,7 @@
 🖥️ We know that games can use a good AI so I would like to know more about its application in designing Games.
 
 Here are the thing I am good at:
-Unity, Blender, Substance Painter, Krita, FL Studio, Audacity.(I have only used these since they are free)
+Unity, Blender, Substance Painter, Krita, FL Studio, Audacity, Inkscape.(I have only used these since they are free)
 
 If you cant tell already, Let me spill it "I LOVE VIDEO GAMES"
 
