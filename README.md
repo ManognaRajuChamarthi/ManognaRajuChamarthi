@@ -11,6 +11,8 @@ I am Manogna Raju Chamarthi, from India. I am a Video Game Developer and content
 * 👩‍💻 C#
 * 🖌  Blender
 * 🎨 Krita & Inkscape 
+* 🐍 Python 
+* © C and C++
 
  
 ## Socials
