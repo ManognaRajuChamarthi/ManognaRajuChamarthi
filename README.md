@@ -1,5 +1,5 @@
 
-<img src='https://github.com/ManognaRajuChamarthi/ManognaRajuChamarthi/blob/main/Logo.png' width='50'>
+<img src='https://github.com/ManognaRajuChamarthi/ManognaRajuChamarthi/blob/main/Logo.png' width='100'>
 
 # Manogna Raju Chamarthi
 
