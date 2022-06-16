@@ -1,5 +1,6 @@
 
-[<img src='https://github.com/ManognaRajuChamarthi/ManognaRajuChamarthi/blob/main/Logo.png' width='512'>]
+<img src='https://github.com/ManognaRajuChamarthi/ManognaRajuChamarthi/blob/main/Logo.png' width='50'>
+
 # Manogna Raju Chamarthi
 
 Indie Game Developer and Content Creator on YouTube and Twitch
