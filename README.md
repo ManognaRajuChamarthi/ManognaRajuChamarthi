@@ -1,4 +1,3 @@
-![Indie Game Developer and Content Creator on YouTube and Twitch](https://github.com/ManognaRajuChamarthi/ManognaRajuChamarthi/blob/main/Logo.png)
 
 # Manogna Raju Chamarthi
 
