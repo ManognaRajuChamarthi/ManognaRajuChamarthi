@@ -4,7 +4,7 @@
 
 Indie Game Developer and Content Creator on YouTube and Twitch
 
-I am Manogna Raju Chamarthi, from India. I am a Video Game Developer and content creator. I really enjoy making and playing Video games. I am quite good at using Unity Engine and writing code in C#. I also like making 3D models and 2d Art for games. I am skilled at using Blender, Krita and Inkscape for art purposes.
+I am Manogna Raju Chamarthi, from India. I am a Video Game Developer and content creator. I enjoy making and playing Video games. I am quite good at using Unity Engine and writing code in C#. I also like making 3D models and 2D Art for games. I am skilled at using Blender, Krita, and Inkscape for art.
 
 ## Skills
 * 🎮 Unity Engine
